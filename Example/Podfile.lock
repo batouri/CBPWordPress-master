@@ -1,0 +1,83 @@
+PODS:
+  - AFNetworking (2.5.0):
+    - AFNetworking/NSURLConnection (= 2.5.0)
+    - AFNetworking/NSURLSession (= 2.5.0)
+    - AFNetworking/Reachability (= 2.5.0)
+    - AFNetworking/Security (= 2.5.0)
+    - AFNetworking/Serialization (= 2.5.0)
+    - AFNetworking/UIKit (= 2.5.0)
+  - AFNetworking/NSURLConnection (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.0)
+  - AFNetworking/Security (2.5.0)
+  - AFNetworking/Serialization (2.5.0)
+  - AFNetworking/UIKit (2.5.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Appirater (2.0.4)
+  - ASImageResize (1.0.3)
+  - BButton (4.0.2)
+  - CBPWordPress (0.1.2):
+    - AFNetworking (~> 2.0)
+  - HexColors (2.2.1)
+  - HTAutocompleteTextField (1.3.2)
+  - HTProgressHUD (0.2.1)
+  - MHVideoPhotoGallery (1.6.7):
+    - SDWebImage
+  - NSString-HTML (0.0.1)
+  - SAMTextView (0.2.1)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+  - SORelativeDateTransformer (1.1.10)
+  - SSCWhatsAppActivity (1.2)
+  - SVPullToRefresh (HEAD based on 0.4.1)
+  - TOWebViewController (2.0.14)
+  - TSMessages (0.9.12):
+    - HexColors
+  - TTTAttributedLabel (1.13.1)
+
+DEPENDENCIES:
+  - Appirater (~> 2.0)
+  - ASImageResize (~> 1.0)
+  - BButton (~> 4.0)
+  - CBPWordPress (~> 0.1)
+  - HTAutocompleteTextField (~> 1.2)
+  - HTProgressHUD (~> 0.2.1)
+  - MHVideoPhotoGallery (~> 1.6)
+  - NSString-HTML (~> 0.0)
+  - SAMTextView (~> 0.2)
+  - SORelativeDateTransformer (~> 1.1)
+  - SSCWhatsAppActivity (~> 1.0)
+  - SVPullToRefresh (HEAD)
+  - TOWebViewController (~> 2.0.5)
+  - TSMessages (~> 0.9)
+  - TTTAttributedLabel (~> 1.10)
+
+SPEC CHECKSUMS:
+  AFNetworking: 96ac9bf3eda33582701cb1fcc5b896aa1e20311e
+  Appirater: 8783318c36414e8de3ea023443028df94c1b784b
+  ASImageResize: c8ae8a2a7c57cbffbc39d756bc896f8384f0ca40
+  BButton: ab0f2ed3b998ae73c5188b57d270d81e4a1eeb27
+  CBPWordPress: 80993d4e6cc1253785a5eb03d095d3f05bb6d92d
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  HTAutocompleteTextField: ce809f04875e843e20f214ab973bb496ba7a93b1
+  HTProgressHUD: 14ecb00aa05e6ed75fdb8b859be5473d3f001175
+  MHVideoPhotoGallery: d6433bc1ec2caf227ad960ee709500b23949bbb2
+  NSString-HTML: 0dc0ae9d430d20a96dda961a346fa842fffa8c1f
+  SAMTextView: 95ba155e3ecd4ef5236311f0137ae1b8ce928352
+  SDWebImage: ed3095af2ff88b436426037444979b917f6c5575
+  SORelativeDateTransformer: 307489386df4697780902bc16e99881d69a629b3
+  SSCWhatsAppActivity: ae9b8ec4ca15607cca84a12828a5fe667e9f64e0
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  TOWebViewController: 2cfd0032d781cabd88a0995fbca9692c11f0797e
+  TSMessages: 2a52642128d7ab15b46930c810b9c9403a2b58f3
+  TTTAttributedLabel: 0a9e524c8d78301506c26affffc827429b833b25
+
+COCOAPODS: 0.36.3
